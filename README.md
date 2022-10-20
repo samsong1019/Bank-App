@@ -18,7 +18,7 @@ The second project must meet the following criteria:
 </ul>
 
 ## Link to Deployed Heroku Page
-<a href="">Deployed Heroku Page</a>
+<a href="https://git.heroku.com/luckylucre.git">Deployed Heroku Page</a>
 
 ## Link to GitHub Repository
 <a href="https://github.com/samsong1019/LuckyLucre/tree/thebranch">GitHub Repository</a>
